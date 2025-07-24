@@ -1,0 +1,255 @@
+{
+  "toTop": "Back to Top!",
+  "loading": "Loading...",
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact Us",
+    "brand": "Fares Friends Tours"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to Fares Friends Tours",
+      "subtitle": "Your trusted partner for unforgettable travel experiences",
+      "explore": "Learn More",
+      "book": "Contact Us"
+    },
+    "destinations": {
+      "sectionTitle": "Popular Destinations",
+      "sectionSubtitle": "Explore the most beloved destinations around the world",
+      "viewDetails": "View Details"
+    },
+    "features": {
+      "sectionTitle": "Why Choose Fares Friends",
+      "sectionSubtitle": "We provide exceptional travel experiences and unmatched service",
+      "safe": {
+        "title": "Safe & Secure",
+        "desc": "Your safety is our top priority with certified guides and secure bookings."
+      },
+      "price": {
+        "title": "Best Prices",
+        "desc": "Competitive rates with no hidden fees and flexible payment options."
+      },
+      "guide": {
+        "title": "Professional Guides",
+        "desc": "Experienced guides who know the destinations inside out."
+      },
+      "custom": {
+        "title": "Custom Tours",
+        "desc": "Tailored experiences to match your preferences and schedule."
+      }
+    },
+    "testimonials": {
+      "sectionTitle": "What Our Clients Say",
+      "sectionSubtitle": "Real experiences from our happy travelers"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About Fares Friends",
+      "subtitle": "Delivering unforgettable travel since 2008"
+    },
+    "story": {
+      "title": "Our Story",
+      "p1": "Fares Friends Tours is a licensed Egyptian tourism company, approved by the Ministry of Tourism with a Class A license (#1696), founded on September 20, 2008. The company has extensive experience in organizing domestic and international trips, especially Hajj and Umrah programs, offering complete services including visas, flights, accommodations, and full supervision by a team of specialists.",
+      "p2": "Fares Friends Tours is a trusted name known for professionalism and reliability across Egypt.",
+      "stats": {
+        "travelers": "Happy Travelers",
+        "destinations": "Tourist Destinations",
+        "experience": "Years of Experience"
+      }
+    },
+    "values": {
+      "title": "Our Values",
+      "subtitle": "Guiding principles of our work",
+      "trust": {
+        "title": "Trust & Credibility",
+        "desc": "We build long-term relationships through honest communication and reliable service. Your trust is our most valuable asset."
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "desc": "Committed to responsible tourism that respects local communities and protects natural beauty."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "desc": "Every trip is designed to deliver exceptional experiences and lasting memories."
+      }
+    },
+    "achievements": {
+      "title": "Our Achievements",
+      "subtitle": "Awards and milestones that motivate us",
+      "awards": {
+        "t1": "Best Tour Organizer 2023",
+        "d1": "Awarded for tourism excellence",
+        "t2": "4.9/5 Rating",
+        "d2": "Average customer satisfaction rating",
+        "t3": "Green Tourism Certified",
+        "d3": "Committed to eco-friendly practices",
+        "t4": "5000+ Happy Clients",
+        "d4": "Trusted by travelers worldwide"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We’re here to help plan your perfect trip",
+    "license": "✅ Licensed by the Ministry of Tourism #1696 - Class A",
+    "title2": "For inquiries and details, please call our branches",
+    "cairo": "Cairo",
+    "cairoAddress": "12 Youssef El Gendy Street, Bab El Louq",
+    "kafrElSheikh": "Kafr El-Sheikh",
+    "kafrElSheikhAddress": "El Geish Street, Behind Cinema Al-Gomhoria"
+  },
+  "services": {
+    "heroTitle": "Fares Friends Tourism",
+    "heroSubtitle": "Crafting unforgettable journeys — from Egypt to the world and beyond .",
+    "mainTitle": "Our Premium Services",
+    "mainSubtitle": "Discover the world with Fares Friends – your trusted travel partner",
+    "programsList": [
+      {
+        "title": "Safari Adventure",
+        "description": "Explore the desert on a thrilling safari with quad bikes and Bedouin dinner.",
+        "price": "$50",
+        "duration": "6 hours",
+        "features": [
+          "Pickup from hotel",
+          "Quad bike ride",
+          "Camel ride",
+          "Bedouin village visit",
+          "Traditional dinner"
+        ],
+        "button": "Book Now",
+        "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?q=80&w=1168&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+      },
+      {
+        "title": "Giftun Island Snorkeling",
+        "description": "Enjoy a full-day snorkeling trip to Giftun Island with lunch on board.",
+        "price": "$45",
+        "duration": "8 hours",
+        "features": [
+          "Snorkeling gear",
+          "Lunch & drinks",
+          "Two snorkeling stops",
+          "Relax on the island"
+        ],
+        "button": "Book Now",
+        "image": "https://images.unsplash.com/photo-1596952687581-9bd164398339?q=80&w=1408&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Dolphin House Tour",
+        "description": "Swim with dolphins in their natural habitat and enjoy coral reefs.",
+        "price": "$55",
+        "duration": "7 hours",
+        "features": [
+          "Swimming with dolphins",
+          "Snorkeling gear",
+          "Lunch & drinks",
+          "Guide included"
+        ],
+        "button": "Book Now",
+        "image": "https://images.unsplash.com/photo-1721141877645-4404b8b241f8?q=80&w=1268&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Hurghada City Tour",
+        "description": "Discover the culture and markets of Hurghada on this guided city tour.",
+        "price": "$20",
+        "duration": "4 hours",
+        "features": [
+          "Visit the mosque & church",
+          "Old market & marina",
+          "Local shopping stops"
+        ],
+        "button": "Book Now",
+        "image": "https://images.unsplash.com/photo-1609101111430-edf2b3da1578?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Submarine Adventure",
+        "description": "Dive 25 meters underwater to explore the Red Sea’s marine life.",
+        "price": "$35",
+        "duration": "2 hours",
+        "features": [
+          "Air-conditioned submarine",
+          "Underwater experience",
+          "Guide included"
+        ],
+        "button": "Book Now",
+        "image": "https://images.unsplash.com/photo-1561983745-6feb796ff906?q=80&w=1167&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Paradise Island",
+        "description": "Relax on the white sands of Paradise Island with snorkeling stops.",
+        "price": "$48",
+        "duration": "7 hours",
+        "features": [
+          "Snorkeling gear",
+          "Lunch on the boat",
+          "Island entry",
+          "Entertainment"
+        ],
+        "button": "Book Now",
+        "image": "https://images.unsplash.com/photo-1669517270484-df54ad8d54c8?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    ],
+    "whyTitle": "Why Travel with Fares Friends?",
+    "whySubtitle": "We deliver excellence, care, and lasting memories",
+    "why": [
+      {
+        "title": "Trusted Expertise",
+        "desc": "Years of experience in religious, domestic, and international tourism."
+      },
+      {
+        "title": "Safety & Comfort",
+        "desc": "Top safety standards and exceptional comfort in every trip."
+      },
+      {
+        "title": "Personalized Service",
+        "desc": "Customizable packages and dedicated support for each traveler."
+      },
+      {
+        "title": "Global Network",
+        "desc": "Strong partnerships and global resources for seamless travel."
+      }
+    ],
+    "bookingTitle": "How to Book",
+    "bookingSubtitle": "Start your journey in simple steps",
+    "steps": [
+      {
+        "title": "Choose a Service",
+        "desc": "Pick from tourism, Hajj, or Umrah packages."
+      },
+      {
+        "title": "Get in Touch",
+        "desc": "Contact us via phone, email, or website."
+      },
+      {
+        "title": "Plan & Customize",
+        "desc": "We design and confirm your trip details for peace of mind."
+      },
+      {
+        "title": "Travel with Confidence",
+        "desc": "Enjoy a smooth and unforgettable journey with Fares Friends Tours!"
+      }
+    ]
+  },
+  "footer": {
+    "quick_links": "Quick Links",
+    "home": "Home",
+    "about": "About",
+    "services": "Our Services",
+    "contact": "Contact",
+    "contact_title": "Contact Info",
+    "follow_us": "Follow Us",
+    "about_company": "Fares Friends Tours is a licensed Egyptian tourism company by the Ministry of Tourism, Class A, license number 1696, established on September 20, 2008. The company has vast experience in organizing domestic and international trips, especially Hajj and Umrah programs, offering full services including visas, flights, accommodation, and supervision by expert professionals.",
+    "address_cairo": "Cairo: 12 Youssef El Gendy Street, Bab El Louq",
+    "address_kafr": "Kafr El-Sheikh: El Geish Street, behind Cinema Al-Gomhoria",
+    "rights": "Fares Friends Tours. All rights reserved."
+  },
+  "notFound": {
+    "emoji": "🌍",
+    "title": "404",
+    "message": "Oops! Page Not Found",
+    "description": "The page you are looking for doesn't exist or has been moved.<br>Let's get you back to exploring amazing destinations!",
+    "button": "Back to Home"
+  }
+}

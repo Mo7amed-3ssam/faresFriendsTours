@@ -1,0 +1,98 @@
+{
+    "toTop":"ia-ma sus!",
+    "nav": {
+      "home": "Acasă",
+      "about": "Despre noi",
+      "services": "Servicii",
+      "contact": "Contact",
+      "brand": "Fares Friends Tours"
+    },
+    "home": {
+      "hero": {
+        "title": "Bine ai venit la Fares Friends Tours",
+        "subtitle": "Partenerul tău de încredere pentru experiențe de călătorie inedite",
+        "explore": "Explorează Tururile Noastre",
+        "book": "Rezervă-ți Călătoria"
+      }
+    },
+    "programs": [
+    {
+      "title": "Aventură Safari",
+      "description": "Explorează deșertul cu ATV-uri și cină beduină.",
+      "price": "$50",
+      "duration": "6 ore",
+      "features": [
+        "Preluare de la hotel",
+        "Tur cu ATV",
+        "Plimbare cu cămila",
+        "Vizită la satul beduin",
+        "Cină tradițională"
+      ],
+      "button": "Rezervă acum"
+    },
+    {
+      "title": "Snorkeling Insula Giftun",
+      "description": "Excursie de o zi cu snorkeling și prânz la bord.",
+      "price": "$45",
+      "duration": "8 ore",
+      "features": [
+        "Echipament snorkeling",
+        "Prânz & băuturi",
+        "Două opriri pentru snorkeling",
+        "Relaxare pe insulă"
+      ],
+      "button": "Rezervă acum"
+    },
+    {
+      "title": "Tur Casa Delfinilor",
+      "description": "Înoată cu delfinii și explorează recifurile de corali.",
+      "price": "$55",
+      "duration": "7 ore",
+      "features": [
+        "Înot cu delfinii",
+        "Echipament snorkeling",
+        "Prânz & băuturi",
+        "Ghid inclus"
+      ],
+      "button": "Rezervă acum"
+    },
+    {
+      "title": "Turul Orașului Hurghada",
+      "description": "Descoperă cultura și piețele din Hurghada.",
+      "price": "$20",
+      "duration": "4 ore",
+      "features": [
+        "Vizită la moschee & biserică",
+        "Piață veche & marină",
+        "Opriri pentru cumpărături"
+      ],
+      "button": "Rezervă acum"
+    },
+    {
+      "title": "Aventura Submarină",
+      "description": "Scufundă-te 25m sub apă și explorează fauna marină.",
+      "price": "$35",
+      "duration": "2 ore",
+      "features": [
+        "Submarin cu aer condiționat",
+        "Experiență subacvatică",
+        "Ghid inclus"
+      ],
+      "button": "Rezervă acum"
+    },
+    {
+      "title": "Insula Paradisului",
+      "description": "Relaxează-te pe plajele insulei Paradise cu opriri de snorkeling.",
+      "price": "$48",
+      "duration": "7 ore",
+      "features": [
+        "Echipament snorkeling",
+        "Prânz la bord",
+        "Intrare pe insulă",
+        "Divertisment"
+      ],
+      "button": "Rezervă acum"
+    }
+    ]
+  }
+  

@@ -1,0 +1,98 @@
+{
+    "toTop":"Nimm mich hoch!",
+    "nav": {
+      "home": "Startseite",
+      "about": "Über uns",
+      "services": "Dienstleistungen",
+      "contact": "Kontakt",
+      "brand": "Fares Friends Tours"
+    },
+    "home": {
+      "hero": {
+        "title": "Willkommen bei Fares Friends Tours",
+        "subtitle": "Ihr vertrauenswürdiger Partner für unvergessliche Reiseerlebnisse",
+        "explore": "Unsere Touren entdecken",
+        "book": "Ihre Reise buchen"
+      }
+    },
+    "programs": [
+    {
+      "title": "Safari-Abenteuer",
+      "description": "Erkunden Sie die Wüste mit Quads und Beduinen-Abendessen.",
+      "price": "50 $",
+      "duration": "6 Stunden",
+      "features": [
+        "Abholung vom Hotel",
+        "Quadfahrt",
+        "Kamelritt",
+        "Besuch eines Beduinendorfs",
+        "Traditionelles Abendessen"
+      ],
+      "button": "Jetzt buchen"
+    },
+    {
+      "title": "Giftun Insel Schnorcheln",
+      "description": "Ganztägiger Schnorchelausflug zur Giftun-Insel mit Mittagessen.",
+      "price": "45 $",
+      "duration": "8 Stunden",
+      "features": [
+        "Schnorchelausrüstung",
+        "Mittagessen & Getränke",
+        "Zwei Schnorchelstopps",
+        "Entspannen auf der Insel"
+      ],
+      "button": "Jetzt buchen"
+    },
+    {
+      "title": "Delfinhaus Tour",
+      "description": "Schwimmen Sie mit Delfinen und entdecken Sie Korallenriffe.",
+      "price": "55 $",
+      "duration": "7 Stunden",
+      "features": [
+        "Schwimmen mit Delfinen",
+        "Schnorchelausrüstung",
+        "Mittagessen & Getränke",
+        "Reiseführer inklusive"
+      ],
+      "button": "Jetzt buchen"
+    },
+    {
+      "title": "Stadtrundfahrt Hurghada",
+      "description": "Entdecken Sie Kultur und Märkte bei dieser Stadttour.",
+      "price": "20 $",
+      "duration": "4 Stunden",
+      "features": [
+        "Besuch der Moschee & Kirche",
+        "Alter Markt & Marina",
+        "Einkaufsstopps"
+      ],
+      "button": "Jetzt buchen"
+    },
+    {
+      "title": "U-Boot-Abenteuer",
+      "description": "Tauchen Sie 25 Meter unter Wasser, um Meereslebewesen zu sehen.",
+      "price": "35 $",
+      "duration": "2 Stunden",
+      "features": [
+        "Klimatisiertes U-Boot",
+        "Unterwassererlebnis",
+        "Reiseführer inklusive"
+      ],
+      "button": "Jetzt buchen"
+    },
+    {
+      "title": "Paradise Island",
+      "description": "Entspannen Sie sich auf Paradise Island mit Schnorchelstopps.",
+      "price": "48 $",
+      "duration": "7 Stunden",
+      "features": [
+        "Schnorchelausrüstung",
+        "Mittagessen auf dem Boot",
+        "Insel-Eintritt",
+        "Unterhaltung"
+      ],
+      "button": "Jetzt buchen"
+    }
+    ]
+  }
+  
