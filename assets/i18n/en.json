@@ -102,94 +102,186 @@
     "kafrElSheikhAddress": "El Geish Street, Behind Cinema Al-Gomhoria"
   },
   "services": {
-    "heroTitle": "Fares Friends Tourism",
+    "heroTitle": "Fares Friends Tours",
     "heroSubtitle": "Crafting unforgettable journeys — from Egypt to the world and beyond .",
-    "mainTitle": "Our Premium Services",
+    "mainTitle": "Our Excursions & Adventures",
     "mainSubtitle": "Discover the world with Fares Friends – your trusted travel partner",
     "programsList": [
-      {
-        "title": "Safari Adventure",
-        "description": "Explore the desert on a thrilling safari with quad bikes and Bedouin dinner.",
-        "price": "$50",
-        "duration": "6 hours",
-        "features": [
-          "Pickup from hotel",
-          "Quad bike ride",
-          "Camel ride",
-          "Bedouin village visit",
-          "Traditional dinner"
-        ],
-        "button": "Book Now",
-        "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?q=80&w=1168&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
-      },
-      {
-        "title": "Giftun Island Snorkeling",
-        "description": "Enjoy a full-day snorkeling trip to Giftun Island with lunch on board.",
-        "price": "$45",
-        "duration": "8 hours",
-        "features": [
-          "Snorkeling gear",
-          "Lunch & drinks",
-          "Two snorkeling stops",
-          "Relax on the island"
-        ],
-        "button": "Book Now",
-        "image": "https://images.unsplash.com/photo-1596952687581-9bd164398339?q=80&w=1408&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-      },
-      {
-        "title": "Dolphin House Tour",
-        "description": "Swim with dolphins in their natural habitat and enjoy coral reefs.",
-        "price": "$55",
-        "duration": "7 hours",
-        "features": [
-          "Swimming with dolphins",
-          "Snorkeling gear",
-          "Lunch & drinks",
-          "Guide included"
-        ],
-        "button": "Book Now",
-        "image": "https://images.unsplash.com/photo-1721141877645-4404b8b241f8?q=80&w=1268&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-      },
-      {
-        "title": "Hurghada City Tour",
-        "description": "Discover the culture and markets of Hurghada on this guided city tour.",
-        "price": "$20",
-        "duration": "4 hours",
-        "features": [
-          "Visit the mosque & church",
-          "Old market & marina",
-          "Local shopping stops"
-        ],
-        "button": "Book Now",
-        "image": "https://images.unsplash.com/photo-1609101111430-edf2b3da1578?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-      },
-      {
-        "title": "Submarine Adventure",
-        "description": "Dive 25 meters underwater to explore the Red Sea’s marine life.",
-        "price": "$35",
-        "duration": "2 hours",
-        "features": [
-          "Air-conditioned submarine",
-          "Underwater experience",
-          "Guide included"
-        ],
-        "button": "Book Now",
-        "image": "https://images.unsplash.com/photo-1561983745-6feb796ff906?q=80&w=1167&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-      },
-      {
-        "title": "Paradise Island",
-        "description": "Relax on the white sands of Paradise Island with snorkeling stops.",
-        "price": "$48",
-        "duration": "7 hours",
-        "features": [
-          "Snorkeling gear",
-          "Lunch on the boat",
-          "Island entry",
-          "Entertainment"
-        ],
-        "button": "Book Now",
-        "image": "https://images.unsplash.com/photo-1669517270484-df54ad8d54c8?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-      }
+    {
+      "title": "Desert Safari & Quad Adventure",
+      "availability": "Every day",
+      "duration": "approx. 3 hours",
+      "hotelPickup": "11 am or 2 pm",
+      "hotelReturn": "1 pm or 4 pm",
+      "included": [
+        "Parasailing flight (5‑7 minutes at 50 m)",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "https://images.unsplash.com/photo-1575677155757-b5eb75df3a4e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Dolphin & Sea Lion Show",
+      "availability": "Every day except Saturday",
+      "duration": "approx. 2 hours",
+      "hotelPickup": "9:30 am",
+      "hotelReturn": "12 pm",
+      "included": [
+        "60‑minute dolphin, sea lion & walrus show",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "https://images.unsplash.com/photo-1495368008737-9d436e094dd5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "White Island Snorkel Trip",
+      "availability": "Every day",
+      "duration": "approx. 4 hours",
+      "hotelPickup": "", "hotelReturn": "",
+      "included": [
+        "Visit White Island",
+        "Snorkeling",
+        "Optional: Dolphin House, Orange Island, Paradise Island or Eden Island (extra cost)",
+        "Snorkeling gear, fruits & drinks",
+        "Private transfer with hotel pickup/drop‑off"
+      ],
+      "image": "https://plus.unsplash.com/premium_photo-1690582417564-b31a9ad96258?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Semi‑Submarine & Snorkel",
+      "availability": "Every day",
+      "duration": "approx. 3 hours",
+      "hotelPickup": "8 am, 10 am or 2 pm",
+      "hotelReturn": "11:30 am, 1:30 pm or 5:30 pm",
+      "included": [
+        "1‑hour semi‑submarine with panoramic windows",
+        "30‑40 minutes snorkeling in the Red Sea",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "https://images.unsplash.com/photo-1664922114319-4700c0ef74b1?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Discover Diving & Snorkeling",
+      "availability": "Every day",
+      "duration": "approx. 8 hours",
+      "hotelPickup": "8 am",
+      "hotelReturn": "5 pm",
+      "included": [
+        "Full‑day boat trip",
+        "Two dives (15‑20 min each)",
+        "Snorkeling stop",
+        "Diving & snorkeling equipment",
+        "Lunch & drinks",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "https://images.unsplash.com/photo-1727095388910-e09f14913505?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Banana Boat & Beach Fun",
+      "availability": "Every day",
+      "duration": "approx. 8 hours",
+      "hotelPickup": "8 am",
+      "hotelReturn": "5 pm",
+      "included": [
+        "Two hours on Hula‑Hula Beach",
+        "Snorkeling stops",
+        "Water sports: banana & sofa boat",
+        "Lunch & drinks on the boat",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "https://images.unsplash.com/photo-1694328669099-7d6f4afd0562?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Desert Safari with BBQ & Show",
+      "availability": "Every day",
+      "duration": "approx. 6 hours",
+      "hotelPickup": "12:30 pm",
+      "hotelReturn": "8 pm",
+      "included": [
+        "Quad bike ride (40 min)",
+        "Buggy ride (15 min)",
+        "Camel ride (10 min)",
+        "Visit Bedouin village",
+        "Jeep safari tour",
+        "BBQ dinner",
+        "Oriental show",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "https://images.unsplash.com/photo-1494674557684-c26be0f88950?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Luxor Full‑Day Nile Excursion",
+      "availability": "Every day",
+      "duration": "approx. 18 hours",
+      "hotelPickup": "4 am",
+      "hotelReturn": "10 pm",
+      "included": [
+        "Valley of the Kings",
+        "Karnak Temple & Avenue of Sphinxes",
+        "City of the Dead",
+        "Hatshepsut Temple",
+        "Colossi of Memnon",
+        "Alabaster & oil factories",
+        "Lunch",
+        "Egyptologist guide (multi‑language)",
+        "Hotel pickup and drop‑off by bus"
+      ],
+      "image": "https://images.unsplash.com/photo-1705680757279-98fa1fe46853?q=80&w=1132&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Hurghada Grand Aquarium Visit",
+      "availability": "Every day",
+      "duration": "approx. 3 hours",
+      "hotelPickup": "10 am",
+      "hotelReturn": "1 pm",
+      "included": [
+        "Over 1,200 marine animals in 22 galleries",
+        "Freshwater aquarium, zoo & underwater tunnel",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "https://images.unsplash.com/photo-1562679300-60018575a875?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Evening Horseback Ride",
+      "availability": "Every day except Saturday",
+      "duration": "approx. 2 hours",
+      "hotelPickup": "9:30 am",
+      "hotelReturn": "12 pm",
+      "included": [
+        "60‑minute dolphin & sea lion show",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "https://images.unsplash.com/photo-1512074252045-2db98d993285?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Beach & Desert Horseback Tour",
+      "availability": "Every day",
+      "duration": "approx. 3 hours",
+      "hotelPickup": "3 pm",
+      "hotelReturn": "7 pm",
+      "included": [
+        "2‑hour horseback ride along beach & desert",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "https://images.unsplash.com/photo-1650433943275-55097457ebeb?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "VIP Dolphin Tour with Snorkeling",
+      "availability": "Every day",
+      "duration": "varied",
+      "hotelPickup": "",
+      "hotelReturn": "",
+      "included": [
+        "Small group visit to dolphins in free habitat",
+        "Snorkel gear & life jackets",
+        "Port transfer",
+        "Breakfast",
+        "Swimming with dolphins",
+        "Grill lunch",
+        "Snacks & drinks",
+        "Hotel transfer",
+        "Bring your towel!"
+      ],
+      "image": "https://images.unsplash.com/photo-1504317083653-6843c8aa144f?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
     ],
     "whyTitle": "Why Travel with Fares Friends?",
     "whySubtitle": "We deliver excellence, care, and lasting memories",
@@ -241,8 +333,7 @@
     "contact_title": "Contact Info",
     "follow_us": "Follow Us",
     "about_company": "Fares Friends Tours is a licensed Egyptian tourism company by the Ministry of Tourism, Class A, license number 1696, established on September 20, 2008. The company has vast experience in organizing domestic and international trips, especially Hajj and Umrah programs, offering full services including visas, flights, accommodation, and supervision by expert professionals.",
-    "address_cairo": "Cairo: 12 Youssef El Gendy Street, Bab El Louq",
-    "address_kafr": "Kafr El-Sheikh: El Geish Street, behind Cinema Al-Gomhoria",
+    "address": "151, Marina Street, Hurghada, Egypt",
     "rights": "Fares Friends Tours. All rights reserved."
   },
   "notFound": {
